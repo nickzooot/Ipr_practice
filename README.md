@@ -1,1 +1,4 @@
-**Курс "Обработка и распознавание изображений", ВМК МГУ, кафедра ММП, 3 курс, 6 семестр**
+### [MMF] Image processing and recognition 
+* [Сhips recognition from the game "Tantrix".](https://github.com/nickzooot/ipr_practice/tree/main/task1)
+* [Graph structure recognition.)(https://github.com/nickzooot/ipr_practice/tree/main/task2)
+
